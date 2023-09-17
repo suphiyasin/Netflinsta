@@ -1,23 +1,23 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suphiyasin/Spotinsta&count_bg=%23C83D3D&title_bg=%23057386&icon=&icon_color=%23BA0808&title=View&edge_flat=false)](https://github.com/suphiyasin/Spotinsta)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suphiyasin/netflinsta&count_bg=%23C83D3D&title_bg=%23057386&icon=&icon_color=%23BA0808&title=View&edge_flat=false)](https://github.com/suphiyasin/netflinsta)
 
 
 <br />
 <p align="center">
-<a href="https://github.com/suphiyasin/Spotinsta/">
+<a href="https://github.com/suphiyasin/netflinsta/">
 <img src="https://i.hbrcdn.com/haber/2019/05/18/netflix-te-izlediklerinizi-instagram-hikayele-12062432_amp.jpg" alt="Logo" width="80" height="80" />
 </a>
 
-<h3 align="center">Spotinsta V1.0.0</h3>
+<h3 align="center">Netflinsta V1.0.0</h3>
 
 <p align="center">
    API documentation that instantly writes the movies you watch on Netflix to your Instagram bio
     <br>
     <a href="https://github.com/suphiyasin/netflinsta/issues">Feedback</a>
     <br>
-    <a href="https://suphi.org/github/spotinsta-kullanim/" style="font-size:24px">Türkçe</a>
+    
 </p>
 
 # Get Cookies
