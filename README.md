@@ -29,7 +29,6 @@ The same is true for Netflix.
 
 ```
 Fill in your instagram information in the update function
-backend.php:243
 ```
 
 <a href="https://www.instagram.com/accounts/edit/">https://www.instagram.com/accounts/edit/</a>
